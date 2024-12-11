@@ -64,9 +64,3 @@ Marketing Strategy, Data Analysis, Case Analysis, Multi Attribute Model, Compens
 
 
 
-
-## Tool used
-- Excel
-
-## Skills 
-- Analytical Skills, Case Analysis, Data Analysis, Marketing Strategy, Root Cause Problem Solving
