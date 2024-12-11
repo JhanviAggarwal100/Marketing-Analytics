@@ -40,6 +40,14 @@ Recommendation Trends:
 - Questionnaire Link
 - Report with Insights
   
+## Contact
+https://www.linkedin.com/in/jhanvi-aggarwal?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
+## Tools Used
+- Excel
+
+## Skills
+Marketing Strategy, Data Analysis, Case Analysis, Multi Attribute Model, Compensatory Model Approach
 
 
 
